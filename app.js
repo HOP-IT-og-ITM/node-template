@@ -37,7 +37,6 @@ app.post('/ny-bruker', async (req, res) => {
             res.redirect('/');
         });
     });
-
 });
 
 
